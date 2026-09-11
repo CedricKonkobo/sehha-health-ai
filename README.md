@@ -11,9 +11,9 @@
 ![Data](https://img.shields.io/badge/Data-PostgreSQL%2016-64748b?style=flat-square)
 ![License](https://img.shields.io/badge/license-TBD-lightgrey?style=flat-square)
 
-[Demo video](https://example.com/sehha-demo) &nbsp;|&nbsp; [Technical documentation](https://example.com/sehha-doc) &nbsp;|&nbsp; [Live demo](https://example.com/sehha-app)
+[Demo video](./SEHHA_video_seule.mp4) &nbsp;|&nbsp; [Technical documentation](https://example.com/sehha-doc) &nbsp;|&nbsp; [Live demo](https://example.com/sehha-app)
 
-<sub>Placeholder links, to be completed.</sub>
+<sub>Documentation and live demo links are placeholders, to be completed.</sub>
 
 </div>
 
@@ -91,9 +91,7 @@ the pharmacy, a single scan tells whether it is authentic.
 </tr>
 </table>
 
-**[Watch the demo video (5 min)](https://example.com/sehha-demo)**
-
-<sub>Screenshots and link to be completed.</sub>
+**[Watch the demo video](./SEHHA_video_seule.mp4)**
 
 </div>
 

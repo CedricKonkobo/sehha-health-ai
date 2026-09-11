@@ -1,0 +1,140 @@
+GRILLES DE CLASSIFICATION CCMU - CRITÈRES DÉTAILLÉS
+=====================================================
+
+GRILLE D'ÉVALUATION CCMU POUR L'INFIRMIER D'ACCUEIL ET D'ORIENTATION (IAO)
+
+La classification CCMU (Classification Clinique des Malades aux Urgences) est un outil de triage utilisé dans les services d'urgences français. Elle permet de hiérarchiser la gravité des patients à leur arrivée.
+
+NIVEAU 1 - VERT CLAIR
+Score : CCMU 1
+Critères d'inclusion :
+- Patient conscient, orienté, stable hémodynamiquement
+- Pas de détresse vitale
+- Pas d'acte thérapeutique nécessaire aux urgences
+- Motif administratif ou traumatisme bénin
+Paramètres vitaux attendus :
+- Fréquence cardiaque : 60-100 bpm
+- Fréquence respiratoire : 12-20/min
+- SpO2 : > 96% en air ambiant
+- PA systolique : 100-140 mmHg
+- Score de Glasgow : 15
+- Température : 36-37,5°C
+Délai de prise en charge : 2 heures
+
+NIVEAU 2 - VERT
+Score : CCMU 2
+Critères d'inclusion :
+- Patient stable mais nécessitant un bilan ou un geste
+- Douleur modérée (EVA 4-6)
+- Signes fonctionnels sans retentissement systémique
+Paramètres vitaux attendus :
+- Fréquence cardiaque : 55-110 bpm
+- Fréquence respiratoire : 12-24/min
+- SpO2 : > 94% en air ambiant
+- PA systolique : 90-160 mmHg
+- Score de Glasgow : 15
+Délai de prise en charge : 1 heure
+
+NIVEAU 3 - ORANGE
+Score : CCMU 3
+Critères d'inclusion :
+- Instabilité potentielle ou risque d'aggravation
+- Douleur intense (EVA > 6)
+- Trouble de conscience transitoire ou léger (GCS 13-14)
+- Dyspnée modérée ou tachycardie inexpliquée
+- Fièvre avec frissons ou terrain immunodéprimé
+Paramètres vitaux préoccupants :
+- Fréquence cardiaque : > 110 ou < 50 bpm
+- Fréquence respiratoire : > 24 ou < 10/min
+- SpO2 : 90-94% sous air
+- PA systolique : 80-90 ou > 180 mmHg
+- Score de Glasgow : 13-14
+Délai de prise en charge : 30 minutes
+
+NIVEAU 4 - ROUGE
+Score : CCMU 4
+Critères d'inclusion :
+- Pronostic vital menacé à court terme
+- Déficit neurologique constitué récent
+- Douleur thoracique avec ECG anormal
+- Détresse respiratoire avec SpO2 < 90%
+- Sepsis avec signes de défaillance d'organe
+- Trouble de conscience (GCS 9-12)
+Paramètres vitaux critiques :
+- Fréquence cardiaque : > 130 ou < 40 bpm
+- Fréquence respiratoire : > 30 ou < 8/min
+- SpO2 : < 90% sous air
+- PA systolique : < 80 mmHg
+- Score de Glasgow : 9-12
+Délai de prise en charge : 10 minutes
+
+NIVEAU 5 - ROUGE VIFS / VIOLET
+Score : CCMU 5
+Critères d'inclusion :
+- Urgence vitale immédiate
+- Arrêt cardiorespiratoire
+- Coma profond (GCS ≤ 8)
+- Choc non compensé
+- Détresse respiratoire aiguë avec cyanose
+Paramètres vitaux :
+- FC non mesurable ou > 150 ou < 30 bpm
+- FR non mesurable ou > 35/min
+- SpO2 non mesurable ou < 85%
+- PA systolique < 70 mmHg ou non mesurable
+- Score de Glasgow : ≤ 8
+Délai de prise en charge : IMMÉDIAT (0 minute)
+
+SCORE DE GLASGOW - RÉFÉRENCE
+==============================
+Ouverture des yeux (Y) :
+4 = Spontanée
+3 = Au bruit
+2 = À la douleur
+1 = Aucune
+
+Réponse verbale (V) :
+5 = Orientée
+4 = Confuse
+3 = Inappropriée
+2 = Sons incompréhensibles
+1 = Aucune
+
+Réponse motrice (M) :
+6 = Obéit aux ordres
+5 = Localisatrice
+4 = Retrait
+3 = Flexion anormale
+2 = Extension
+1 = Aucune
+
+Score total = Y + V + M
+15 = Normal
+13-14 = Trouble de conscience léger
+9-12 = Trouble de conscience modéré
+≤ 8 = Coma → intubation à discuter
+
+ÉCHELLE EVA - DOULEUR
+=======================
+0 = Pas de douleur
+1-3 = Douleur légère → paracétamol, ibuprofène
+4-6 = Douleur modérée → palier 2 (tramadol, codéine)
+7-9 = Douleur intense → morphine titrée
+10 = Douleur maximale imaginable → morphine IV urgente
+
+CRITÈRES DE CHOC
+=================
+Choc cardiogénique : PA systolique < 90 mmHg + signes de bas débit (marbrures, oligurie, confusion) + contexte cardiaque
+Choc septique : Infection + PA systolique < 90 mmHg malgré remplissage + lactates > 2 mmol/L
+Choc hypovolémique : PA systolique < 90 mmHg + contexte hémorragique ou déshydratation sévère
+Choc anaphylactique : Allergie + hypotension + urticaire/bronchospasme → adrénaline IM 0,5 mg immédiat
+
+SCORES ASSOCIÉS
+
+Score SOFA (Sepsis-related Organ Failure Assessment) - Critères de sepsis sévère :
+- PaO2/FiO2 < 400 : 1 point
+- Plaquettes < 150 G/L : 1 point
+- Bilirubine > 20 µmol/L : 1 point
+- PA Moyenne < 70 mmHg : 1 point
+- Glasgow < 15 : 1 point
+- Créatinine > 110 µmol/L : 1 point
+Score ≥ 2 points = dysfonction d'organe = sepsis

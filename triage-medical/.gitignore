@@ -1,0 +1,32 @@
+# ── triage-medical (FastAPI / Python) ──
+
+# Environnement virtuel (recréer : python -m venv venv && pip install -r requirements.txt)
+venv/
+.venv/
+env/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets
+.env
+.env.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Base vectorielle générée — reconstruire : python scripts/build_kb.py
+data/chroma_db/
+data/chroma_db.bak*/
+data/*.sqlite3
+data/*.sqlite
+
+# Logs / sorties
+*.log

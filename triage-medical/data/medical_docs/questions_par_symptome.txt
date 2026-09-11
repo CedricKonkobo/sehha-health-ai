@@ -1,0 +1,200 @@
+GUIDE DE QUESTIONNAIRE PAR SYMPTÔME - AGENT CONVERSATIONNEL URGENCES
+======================================================================
+Ce fichier guide l'agent dans la formulation des questions à poser au patient selon le motif de consultation.
+Objectif : collecter les informations nécessaires à la classification CCMU et à l'orientation.
+
+=== SYMPTÔME : DOULEUR THORACIQUE ===
+
+Questions obligatoires (ordre de priorité)
+-------------------------------------------
+1. "Avez-vous encore la douleur en ce moment ?"
+   → Si oui : évaluation d'urgence immédiate (CCMU ≥ 3)
+
+2. "Depuis combien de temps avez-vous cette douleur ?"
+   → < 20 min / 20-60 min / > 60 min / intermittente
+
+3. "Sur une échelle de 0 à 10, quelle est l'intensité de la douleur ?"
+   → EVA : orienter palier antalgie et priorité
+
+4. "Décrivez la douleur : elle est plutôt oppressive (comme un poids sur la poitrine), brûlante, déchirante, ou en coup de couteau ?"
+   → Oppressive : SCA, → Déchirante : dissection, → Brûlante : RGO/œsophage, → Pointe : pleurale/musculaire
+
+5. "La douleur irradie-t-elle quelque part ? Vers le bras gauche, la mâchoire, l'épaule, ou le dos ?"
+   → Bras gauche/mâchoire : SCA, → Dos interscapulaire : dissection aortique
+
+6. "Avez-vous des sueurs froides en ce moment ?"
+   → Oui : signe d'accompagnement du SCA, orienter P2
+
+7. "Avez-vous du mal à respirer en même temps que la douleur ?"
+   → Oui + douleur pleurétique : EP ou pneumothorax
+
+8. "La douleur est-elle apparue brutalement ou progressivement ?"
+   → Brutal (< 1 min) : dissection, EP, pneumothorax, → Progressif : SCA, péricardite
+
+9. "Avez-vous déjà eu une crise cardiaque ou de l'angine de poitrine ?"
+   → Contexte coronarien connu → probabilité SCA plus élevée
+
+10. "Prenez-vous des anticoagulants ou de l'aspirine ?"
+    → Anticoagulants : risque hémorragique, contraindication thrombolyse
+
+Questions complémentaires selon contexte
+-----------------------------------------
+- "Êtes-vous fumeur ? Depuis combien d'années ?"
+- "Avez-vous de l'hypertension, du diabète, ou du cholestérol ?"
+- "Avez-vous voyagé en avion ou été alité longtemps récemment ?" (EP)
+- "Avez-vous craché du sang ?" (EP)
+- "Avez-vous eu de la fièvre récemment ?" (péricardite, myocardite)
+- "La douleur est-elle soulagée par le fait de se pencher en avant ?" (péricardite)
+- "Avez-vous eu des vomissements ou des nausées ?" (SCA, dissection)
+
+=== SYMPTÔME : CÉPHALÉE ===
+
+Questions obligatoires (screening red flags)
+---------------------------------------------
+1. "Est-ce que cette céphalée est apparue très brutalement, comme un coup de tonnerre, en atteignant son maximum en moins d'une minute ?"
+   → Oui : THUNDERCLAP → HSA jusqu'à preuve du contraire → P2 immédiat
+
+2. "Est-ce la pire céphalée de votre vie ?"
+   → Oui : HSA possible → scanner cérébral sans injection urgent
+
+3. "Avez-vous de la fièvre en même temps ?"
+   → Oui : méningite possible → vérifier raideur de nuque, éruption cutanée
+
+4. "Avez-vous une raideur dans la nuque, difficultés à pencher la tête en avant ?"
+   → Oui + fièvre : méningite → P2 urgent
+
+5. "Avez-vous des taches rouges ou violettes sur la peau (purpura) ?"
+   → Oui + fièvre : purpura fulminans → P1 IMMÉDIAT, antibiotiques avant tout
+
+6. "Avez-vous un déficit neurologique : vision floue, trouble de la parole, faiblesse d'un côté ?"
+   → Oui : AVC ou tumeur → P2
+
+7. "Avez-vous vomi depuis le début de la céphalée ?"
+   → Vomissements en jet + céphalée matinale progressive : HTIC → tumeur ou autre
+
+8. "La céphalée a-t-elle commencé après un traumatisme crânien ?"
+   → Oui : hématome intracrânien possible → scanner
+
+Questions pour caractériser (migraine vs autre)
+-------------------------------------------------
+- "La douleur est-elle unilatérale ou des deux côtés ?"
+- "La douleur est-elle pulsatile (bat en rythme avec le cœur) ?"
+- "Avez-vous une sensibilité à la lumière ou au bruit ?"
+- "Avez-vous des nausées ?"
+- "Avez-vous eu des signes avant la céphalée : éclairs visuels, fourmillements ?" (aura)
+- "Est-ce une céphalée que vous connaissez déjà ou une nouvelle ?"
+- "Prenez-vous des antalgiques tous les jours ?" (céphalée par abus médicamenteux)
+
+=== SYMPTÔME : DÉFICIT NEUROLOGIQUE / SUSPICION AVC ===
+
+Questions urgentes (FAST étendu)
+----------------------------------
+1. "Avez-vous remarqué une asymétrie dans le visage, une déviation de la bouche ?"
+
+2. "Avez-vous du mal à lever les deux bras en même temps ?"
+
+3. "Avez-vous du mal à parler, à trouver vos mots, ou à comprendre ce qu'on vous dit ?"
+
+4. "TRÈS IMPORTANT : à quelle heure exactement avez-vous remarqué les premiers symptômes ?"
+   → Heure de début = facteur décisif pour la thrombolyse (fenêtre 4h30)
+   → Si réveil avec déficit : heure du dernier état neurologique normal
+
+5. "Les symptômes sont-ils apparus brutalement ou progressivement ?"
+   → Brutal : AVC ischémique ou hémorragique, → Progressif : tumeur, encéphalite
+
+6. "Avez-vous perdu connaissance ?"
+
+7. "Avez-vous eu des crises convulsives ?"
+   → AVC peut déclencher des convulsions, ou épilepsie différentielle
+
+8. "Prenez-vous des anticoagulants ?" (INR, NACO)
+   → Crucial avant thrombolyse, risque hémorragique
+
+Questions complémentaires
+--------------------------
+- "Avez-vous de l'hypertension artérielle ?"
+- "Avez-vous un traitement anticoagulant ou antiagrégant ?"
+- "Avez-vous déjà eu un AVC ou un AIT ?"
+- "Avez-vous une fibrillation auriculaire connue ?"
+
+=== SYMPTÔME : DYSPNÉE ===
+
+Questions d'urgence
+--------------------
+1. "Avez-vous du mal à respirer en ce moment ?"
+
+2. "Pouvez-vous faire une phrase complète sans vous arrêter ?"
+   → Non : détresse respiratoire sévère → P1 ou P2
+
+3. "Depuis combien de temps ?"
+   → Brutale : EP, pneumothorax, → Progressive : OAP, décompensation BPCO
+
+4. "Avez-vous eu de la fièvre et de la toux récemment ?"
+   → Pneumonie, bronchite
+
+5. "Avez-vous les jambes enflées ou douloureuses ?"
+   → TVP + dyspnée : EP
+
+6. "Avez-vous une maladie cardiaque ou pulmonaire connue ?"
+   → BPCO, asthme, insuffisance cardiaque
+
+Questions complémentaires
+--------------------------
+- "Avez-vous sifflé en respirant ?" (bronchospasme)
+- "Avez-vous craché du sang ?" (EP, cancer)
+- "La dyspnée est-elle pire allongé ?" (orthopnée → insuffisance cardiaque)
+- "Avez-vous voyagé récemment ou été immobilisé ?" (EP)
+
+=== SYMPTÔME : SYNCOPE / MALAISE ===
+
+Questions d'urgence
+--------------------
+1. "Avez-vous perdu connaissance complètement ?"
+   → Oui : syncope vraie, → Non : lipothymie
+
+2. "Combien de temps êtes-vous resté sans connaissance ?"
+   → > 5 min : comitialité à éliminer
+
+3. "Y avait-il des témoins ? Ont-ils vu des convulsions, de la morsure de langue, une perte d'urine ?"
+   → Oui : épilepsie probable
+
+4. "Avez-vous eu des palpitations avant la perte de connaissance ?"
+   → Oui : trouble du rythme cardiaque
+
+5. "Étiez-vous debout, assis ou allongé ?"
+   → Debout : orthostatisme ou vasovagal
+
+6. "Y avait-il un facteur déclenchant : émotion, douleur, chaleur, effort ?"
+   → Émotion/chaleur : vasovagal (bénin)
+   → Effort : cardiomyopathie hypertrophique (grave)
+
+7. "Avez-vous eu des douleurs thoraciques ou une dyspnée avant ?"
+   → Oui : cause cardiaque sérieuse
+
+Questions complémentaires
+--------------------------
+- "Avez-vous eu des prodromes (nausées, sueurs, vision floue avant de tomber) ?"
+- "Avez-vous eu des traumatismes lors de la chute ?" (crâne, membres)
+- "Quel est votre traitement habituel ?" (antihypertenseurs, diurétiques)
+- "Avez-vous un antécédent de maladie cardiaque ?"
+
+=== QUESTIONS GÉNÉRALES SYSTÉMATIQUES ===
+Ces questions doivent être posées pour tous les patients
+
+Antécédents médicaux
+---------------------
+- "Avez-vous des maladies chroniques connues ? (diabète, HTA, maladie cardiaque, cancer)"
+- "Avez-vous déjà été hospitalisé pour une urgence similaire ?"
+- "Avez-vous des allergies médicamenteuses connues ?"
+
+Traitement
+-----------
+- "Quel est votre traitement habituel ?"
+- "Avez-vous pris des médicaments pour ce problème avant de venir ?"
+- "Prenez-vous des anticoagulants ou de l'aspirine ?"
+
+Contexte social
+----------------
+- "Votre âge et votre poids approximatif ?"
+- "Vivez-vous seul ?"
+- "Êtes-vous enceinte ?" (femme en âge de procréer)

@@ -1,0 +1,34 @@
+# SEHHA AI Server — dépendances
+# Versions figées sur l'environnement testé : Python 3.10, Windows x64, CPU.
+# Installées dans ./venv. Voir INSTALL ci-dessous.
+#
+# INSTALL :
+#   python -m venv venv
+#   venv\Scripts\activate
+#   pip install --upgrade pip
+#   pip install -r requirements.txt --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+#
+# L'extra-index-url fournit les wheels CPU précompilées de llama-cpp-python
+# (évite d'avoir à compiler llama.cpp localement).
+
+# --- API ---
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+python-multipart==0.0.9          # requis par FastAPI pour UploadFile / File(...)
+python-dotenv==1.2.3             # charge sehha-ai-server/.env (auth.py, main.py)
+
+# --- STT : routers/stt.py, stt_server.py ---
+faster-whisper==1.0.3            # tire ctranslate2, av, onnxruntime, tokenizers
+
+# --- OCR : services/ocr_service.py ---
+paddleocr==2.9.1                 # API 2.x : PaddleOCR(use_angle_cls=...), .ocr(img, cls=True)
+paddlepaddle==2.6.2             # backend d'inférence requis par paddleocr (CPU)
+pillow==12.3.0                   # from PIL import Image
+numpy==1.26.4                    # <2.0 imposé par paddlepaddle 2.6
+pymupdf==1.28.2                  # import fitz — rendu des pages PDF avant OCR
+
+# --- LLM local : services/llm_service.py ---
+llama-cpp-python==0.3.35         # from llama_cpp import Llama (modèle GGUF Mistral 7B)
+
+# --- Tests / scripts ---
+requests==2.34.2                 # test_stt.py

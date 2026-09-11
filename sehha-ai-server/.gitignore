@@ -1,0 +1,40 @@
+# ── sehha-ai-server (FastAPI / Python — STT Whisper + OCR PaddleOCR + LLM Mistral) ──
+
+# Environnement virtuel (recréer : python -m venv venv && pip install -r requirements.txt)
+venv/
+.venv/
+env/
+
+# Caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Secrets (NB : un token par défaut est encore en dur dans auth.py — à sortir vers .env)
+.env
+.env.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Modèles lourds — télécharger séparément (Mistral GGUF ~4,4 Go)
+models/*.gguf
+models/*.bin
+models/*.safetensors
+models/*.pt
+
+# Poids Whisper / PaddleOCR téléchargés au 1er lancement
+.cache/
+paddleocr/
+inference/
+
+# Fichiers audio de test générés
+*.wav
+!test.wav
+
+# Logs / sorties
+*.log

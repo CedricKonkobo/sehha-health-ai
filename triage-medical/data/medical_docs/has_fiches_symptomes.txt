@@ -1,0 +1,220 @@
+FICHES SYMPTÔMES - RECOMMANDATIONS HAS ET BONNES PRATIQUES
+===========================================================
+Source : Adapté des recommandations de la Haute Autorité de Santé (HAS), SFMU, SFAR
+
+FICHE 1 - DOULEUR THORACIQUE AIGUË
+=====================================
+
+Définition
+-----------
+Toute douleur localisée entre la base du cou et le rebord costal inférieur, d'apparition récente (< 24h) ou brutale.
+
+Étiologies principales à ne pas manquer (règle des 5 grandes urgences)
+-----------------------------------------------------------------------
+1. Syndrome coronarien aigu (SCA) - infarctus du myocarde
+2. Embolie pulmonaire (EP)
+3. Dissection aortique
+4. Pneumothorax spontané
+5. Tamponnade péricardique
+
+Évaluation initiale systématique
+----------------------------------
+- ECG 12 dérivations dans les 10 premières minutes (obligatoire)
+- Constantes : PA aux deux bras, FC, SpO2, FR, température
+- Caractérisation de la douleur : OPQRSTU
+  * Onset (début) : brutal ou progressif ?
+  * Provocateur/Palliatif : effort, repos, position, déglutition ?
+  * Qualité : oppressive, brûlure, déchirement, pointe ?
+  * Radiation : bras gauche, mâchoire, dos, épaule ?
+  * Sévérité : EVA 0-10
+  * Time (durée) : < 20 min, 20-60 min, > 60 min ?
+  * Understanding (facteurs associés) : dyspnée, syncope, sueurs ?
+
+Signes orientant vers SCA
+--------------------------
+- Douleur rétrosternale en barre, irradiant dans le bras gauche ou la mâchoire
+- Survenue à l'effort ou au repos
+- Durée > 20 minutes
+- Associée à sueurs froides, nausées, dyspnée
+- ATCD coronariens, HTA, diabète, tabagisme, dyslipidémie
+- Soulagement par dérivés nitrés (si > 3 min)
+Examens : ECG (sus-décalage ST, BBG), troponine hs T0 et T3h
+
+Signes orientant vers Embolie Pulmonaire
+-----------------------------------------
+- Douleur pleurétique (augmentée à l'inspiration)
+- Dyspnée brutale, tachycardie
+- ATCD phlébite, immobilisation récente, cancer, post-opératoire
+- Hémoptysie
+Score de Wells EP :
+  ATCD TVP/EP : +1,5
+  FC > 100 : +1,5
+  Chirurgie/immobilisation < 4 sem : +1,5
+  Signes cliniques TVP : +3
+  Diagnostic alternatif moins probable : +3
+  Hémoptysie : +1
+  Cancer actif : +1
+  Score > 4 : EP probable → angioscan thoracique
+
+Signes orientant vers Dissection Aortique
+------------------------------------------
+- Douleur déchirante, migratrice (thoracique → dorsale → abdominale)
+- Asymétrie tensionnelle (différence > 20 mmHg entre les deux bras)
+- Début brutal ("coup de poignard")
+- ATCD Marfan, HTA mal contrôlée, bicuspidie aortique
+- Abolition d'un pouls périphérique
+Examens : Angioscan aortique (aorte thoraco-abdominale)
+
+FICHE 2 - ACCIDENT VASCULAIRE CÉRÉBRAL (AVC)
+==============================================
+
+Définition
+-----------
+Déficit neurologique focal d'apparition brutale secondaire à une ischémie ou hémorragie cérébrale.
+Urgence thérapeutique absolue : "Time is Brain" (1,9 million de neurones perdus par minute sans traitement)
+
+Présentation clinique
+----------------------
+AVC ischémique (80% des cas) :
+- Déficit moteur hémicorporel (hémiparésie/hémiplégie)
+- Trouble du langage : aphasie (expression et/ou compréhension)
+- Paralysie faciale centrale (effacement du sillon nasogénien)
+- Trouble de la vision : hémianopsie, diplopie, cécité monoculaire transitoire
+- Ataxie, vertige, trouble de l'équilibre (territoire postérieur)
+
+AVC hémorragique (20% des cas) :
+- Début brutal avec céphalée intense ("la pire céphalée de ma vie")
+- Trouble de conscience plus fréquent
+- Vomissements en jet
+- Signes méningés si hémorragie sous-arachnoïdienne
+
+Score NIHSS - National Institutes of Health Stroke Scale
+---------------------------------------------------------
+Évalue la sévérité du déficit neurologique (0 à 42)
+Items principaux :
+- Niveau de conscience : 0-3
+- Regard conjugué : 0-2
+- Champ visuel : 0-3
+- Paralysie faciale : 0-3
+- Motricité membre supérieur (droit et gauche) : 0-4 chaque
+- Motricité membre inférieur (droit et gauche) : 0-4 chaque
+- Ataxie des membres : 0-2
+- Sensibilité : 0-2
+- Langage : 0-3
+- Dysarthrie : 0-2
+- Extinction/négligence : 0-2
+Interprétation : 0 = normal, 1-4 = léger, 5-15 = modéré, 16-20 = sévère, > 20 = très sévère
+
+Critères de thrombolyse IV (rt-PA)
+------------------------------------
+Indications :
+- AVC ischémique confirmé au scanner (pas d'hémorragie)
+- Délai début des symptômes < 4h30 (ou réveil avec déficit si ≤ 4h30 de sommeil)
+- NIHSS ≥ 4
+- Âge ≥ 18 ans
+Contre-indications absolues :
+- Hémorragie au scanner
+- Chirurgie majeure ou trauma grave < 14 jours
+- Hémorragie interne récente < 3 mois
+- Anticoagulants à dose efficace
+- Plaquettes < 100 000/mm³
+- Glycémie < 2,7 ou > 22 mmol/L
+Dose : rt-PA (alteplase) 0,9 mg/kg IV (max 90 mg), 10% en bolus puis 90% en 60 min
+
+FICHE 3 - CÉPHALÉE AIGUË
+==========================
+
+Définition
+-----------
+Douleur crânienne d'apparition récente ou modification d'une céphalée chronique connue. Symptôme fréquent aux urgences (2-3% des passages).
+
+RED FLAGS à rechercher systématiquement
+-----------------------------------------
+1. Céphalée en coup de tonnerre (thunderclap headache) : intensité maximale en < 1 minute → HSA jusqu'à preuve du contraire
+2. Céphalée progressive en quelques semaines avec signes d'HTIC (nausées matinales, vomissements en jet) → tumeur
+3. Céphalée avec fièvre + raideur de nuque ± purpura → méningite bactérienne
+4. Première céphalée après 50 ans avec AEG → artérite temporale (Horton)
+5. Céphalée post-traumatique avec troubles de conscience
+6. Céphalée avec déficit neurologique focal → AVC, tumeur
+7. Céphalée chez immunodéprimé ou VIH → méningite cryptococcique
+8. Céphalée avec vision floue et œil rouge → glaucome aigu
+
+Hémorragie Sous-Arachnoïdienne (HSA)
+--------------------------------------
+Cause : Rupture d'anévrisme (80% des cas)
+Clinique :
+- Céphalée en coup de tonnerre : maximale en < 60 secondes, "la pire céphalée de ma vie"
+- Nausées, vomissements, photophobie
+- Brève perte de connaissance possible
+- Raideur de nuque (méningisme) apparaissant après quelques heures
+Bilan :
+- Scanner cérébral sans injection (sensibilité 98% dans les 6h, 93% à 24h)
+- Si scanner négatif < 6h : ponction lombaire (xanthochromie = pigment jaune dans le LCR)
+- Angioscanner cérébral ou artériographie pour localiser l'anévrisme
+
+Méningite Bactérienne
+----------------------
+Triade classique : fièvre + céphalée + raideur de nuque
+Signes de gravité : purpura fulminans (→ urgence absolue, pénicilline G avant PL), trouble de conscience, convulsions, signes de choc
+Prise en charge :
+- Hémocultures avant ATB si possible mais ne pas retarder le traitement
+- Ceftriaxone 2g IV immédiatement si purpura ou signes de choc
+- Scanner avant PL si : trouble de conscience, déficit focal, convulsions, immunodépression
+- PL : pression d'ouverture, aspect, cytologie, biochimie, bactériologie
+- Dexaméthasone 10mg IV avant ou avec la 1ère dose d'ATB (réduction des séquelles)
+
+Migraine aux Urgences
+---------------------
+Diagnostic positif (critères IHS) :
+- Céphalée unilatérale, pulsatile
+- Intensité modérée à sévère
+- Aggravée par l'effort physique
+- Associée à nausées/vomissements ou photophobie + phonophobie
+- Durée 4-72h non traitée
+Traitement de la crise aux urgences :
+- Triptans IV/IM ou voie orale (sumatriptan)
+- AINS IV (kétoprofène 100mg IV)
+- Antiémétiques (métoclopramide 10mg IV)
+- Paracétamol 1g IV
+- Corticoïdes si migraine réfractaire (dexaméthasone 8mg IV)
+- Salle sombre, calme
+
+FICHE 4 - SYNCOPE ET MALAISE
+==============================
+
+Définition
+-----------
+Syncope : perte de connaissance brève (< 1 minute), complète, avec retour rapide à la normale, due à une hypoperfusion cérébrale transitoire.
+À distinguer de : épilepsie, hypoglycémie, AIT, intoxication.
+
+Évaluation par score ROSE ou SFSR
+-----------------------------------
+Score de San Francisco (SFSR) - facteurs de haut risque :
+- ECG anormal
+- Dyspnée associée
+- PA systolique < 90 mmHg à l'arrivée
+- Hématocrite < 30%
+- ATCD d'insuffisance cardiaque
+→ 1 critère = hospitalisation recommandée
+
+Causes à ne pas manquer
+------------------------
+Cardiaque (haut risque) :
+- Troubles du rythme (FA, flutter, TV, FV)
+- Bloc auriculo-ventriculaire complet
+- Syndrome de Brugada, QT long
+- Cardiomyopathie hypertrophique
+- SCA avec bradycardie
+
+Neuromédiée (bénigne) :
+- Syncope vasovagale (prodromes, facteur déclenchant, position debout)
+- Hypotension orthostatique (différentiel PA couché/debout > 20 mmHg systolique)
+- Syncope situationnelle (toux, miction, défécation)
+
+Bilan minimal
+--------------
+- ECG systématique
+- Glycémie capillaire
+- PA couché et debout (orthostatisme)
+- NFS, ionogramme si contexte
+- Holter ECG si syncope récidivante inexpliquée

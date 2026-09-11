@@ -1,0 +1,141 @@
+MANCHESTER TRIAGE SYSTEM (MTS) - VERSION FRANÇAISE
+====================================================
+
+Le Manchester Triage System est un système de triage des urgences développé au Royaume-Uni en 1994 et adopté dans de nombreux pays européens. Il classe les patients en 5 niveaux de priorité avec des délais de prise en charge associés.
+
+NIVEAUX DE TRIAGE MTS
+
+NIVEAU P1 - IMMÉDIAT (Rouge)
+Délai maximal de prise en charge : 0 minute
+Couleur : Rouge
+Signification : Patient en danger de mort immédiat
+Critères :
+- Arrêt cardiorespiratoire
+- Obstruction des voies aériennes
+- Détresse respiratoire sévère (FR < 8 ou > 40/min, SpO2 < 85%)
+- Choc sévère (PA systolique < 80 mmHg)
+- Coma (Glasgow ≤ 8)
+- Convulsions en cours
+- Hémorragie massive non contrôlée
+Conduite : Prise en charge immédiate en salle de déchocage
+
+NIVEAU P2 - TRÈS URGENT (Orange)
+Délai maximal de prise en charge : 10 minutes
+Couleur : Orange
+Signification : Risque vital à court terme
+Critères :
+- Douleur thoracique intense (EVA > 7) avec ECG anormal
+- AVC avec déficit neurologique
+- Dyspnée sévère (FR 30-40/min, SpO2 88-90%)
+- Trouble de conscience (Glasgow 9-13)
+- Fièvre > 39°C chez nourrisson < 3 mois ou immunodéprimé
+- Douleur abdominale sévère avec défense
+- Trauma crânien avec perte de connaissance
+- Sepsis avec hypotension
+- Crise hypertensive (PA > 220/120 mmHg) avec symptômes
+Conduite : Prise en charge médicale urgente, monitorage immédiat
+
+NIVEAU P3 - URGENT (Jaune)
+Délai maximal de prise en charge : 30 minutes
+Couleur : Jaune
+Signification : Situation urgente sans risque vital immédiat
+Critères :
+- Douleur modérée à intense (EVA 5-7) bien tolérée
+- Dyspnée modérée (SpO2 91-95%)
+- Vomissements répétés avec déshydratation
+- Traumatisme avec déformation de membre
+- Fièvre > 38,5°C avec frissons chez adulte sain
+- Céphalée intense d'apparition brutale
+- Palpitations avec malaise
+- Plaie nécessitant suture avec saignement contrôlé
+- Syndrome confusionnel chez personne âgée
+Conduite : Évaluation médicale dans les 30 minutes, bilan orienté
+
+NIVEAU P4 - STANDARD (Vert)
+Délai maximal de prise en charge : 60 minutes
+Couleur : Vert
+Signification : Situation non urgente
+Critères :
+- Douleur légère à modérée (EVA < 5) stable
+- Traumatisme sans déformation ni signes de gravité
+- Fièvre bien tolérée sans frissons
+- Vomissements ou diarrhée isolés sans déshydratation
+- Plaie simple ne nécessitant pas de suture urgente
+- Problème chronique se décompensant progressivement
+Conduite : Prise en charge dans l'ordre d'arrivée, bilan si nécessaire
+
+NIVEAU P5 - NON URGENT (Bleu)
+Délai maximal de prise en charge : 120 minutes
+Couleur : Bleu
+Signification : Problème mineur pouvant attendre
+Critères :
+- Consultation administrative ou renouvellement d'ordonnance
+- Traumatisme bénin (contusion sans déformation)
+- Symptômes mineurs chroniques stables
+- Demande de résultats ou courrier médical
+Conduite : Orientation possible vers médecine de ville
+
+DISCRIMINANTS MTS PAR PRÉSENTATION
+
+Douleur Thoracique
+-------------------
+Discriminants à rechercher :
+1. Douleur thoracique actuellement ? → Si oui, continuer
+2. Choc ou collapsus ? → P1
+3. Trouble du rythme ou de la conduction à l'ECG ? → P2
+4. Douleur très intense (EVA ≥ 8) ? → P2
+5. Douleur pleurétique avec dyspnée ? → P2
+6. Facteurs de risque CV + douleur EVA 5-7 ? → P3
+7. Douleur atypique, stable, EVA < 5 → P4
+Questions MTS associées :
+- La douleur irradie-t-elle vers le bras gauche, la mâchoire, le dos ?
+- Avez-vous des sueurs froides en ce moment ?
+- Avez-vous déjà eu un infarctus ?
+- Prenez-vous des anticoagulants ?
+
+Neurologie - AVC / Céphalée
+-----------------------------
+Discriminants à rechercher :
+1. Déficit neurologique soudain ? → P2 minimum
+2. Trouble de la parole ou de la compréhension ? → P2
+3. Déviation de la bouche, asymétrie faciale ? → P2
+4. Céphalée en coup de tonnerre (apparition < 1 minute) ? → P2
+5. Céphalée avec raideur de nuque et fièvre ? → P2 (méningite)
+6. Perte de connaissance ? → P2
+7. Céphalée progressive intense chez patient hypertendu → P3
+8. Céphalée habituelle améliorée par antalgiques → P4
+Test FAST (Face Arm Speech Time) :
+- Face : asymétrie faciale
+- Arm : déficit moteur d'un bras
+- Speech : trouble du langage
+- Time : heure de début des symptômes → CRUCIAL pour thrombolyse
+
+Dyspnée
+--------
+Discriminants :
+1. SpO2 < 85% ou cyanose centrale ? → P1
+2. FR > 35/min ou incapacité à parler ? → P1
+3. SpO2 88-92% ou FR 25-35/min ? → P2
+4. SpO2 92-95% avec dyspnée d'effort devenant repos ? → P3
+5. Dyspnée d'effort isolée, stable → P4
+
+RÈGLES DE TRIAGE MTS
+
+Règle 1 - Toujours prendre le niveau le plus élevé
+Si plusieurs discriminants sont présents, retenir le niveau de priorité le plus urgent.
+
+Règle 2 - Réévaluation
+Tout patient non pris en charge dans le délai prévu doit être réévalué :
+- P3 non vu en 30 min → nouvelle évaluation
+- P4 non vu en 60 min → nouvelle évaluation
+- Toute modification des constantes → reclassification possible
+
+Règle 3 - Situation particulières → surclassement systématique
+- Femme enceinte : classer un niveau au-dessus
+- Enfant < 1 an : classer un niveau au-dessus
+- Personne âgée > 80 ans avec chute : classer un niveau au-dessus
+- Patient immunodéprimé avec fièvre : minimum P2
+- Patient sous anticoagulants avec traumatisme crânien : P2 minimum
+
+Règle 4 - Douleur sévère = minimum P3
+Toute EVA ≥ 7 correspond au minimum à un niveau P3, indépendamment du motif.

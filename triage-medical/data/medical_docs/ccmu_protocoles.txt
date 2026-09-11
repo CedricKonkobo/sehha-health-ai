@@ -1,0 +1,95 @@
+CLASSIFICATION CCMU - PROTOCOLES DE PRISE EN CHARGE AUX URGENCES
+================================================================
+
+CCMU 1 - ÉTAT STABLE, ABSTENTION THÉRAPEUTIQUE
+-----------------------------------------------
+Définition : Patient dont l'état est jugé stable, ne nécessitant ni acte diagnostique complémentaire ni thérapeutique aux urgences.
+Exemples : Contusion bénigne, plaie superficielle sans complication, consultation administrative.
+Protocole :
+- Évaluation clinique initiale par IAO
+- Pas d'examens complémentaires systématiques
+- Orientation vers médecine de ville possible
+- Délai de prise en charge toléré : jusqu'à 120 minutes
+
+CCMU 2 - ÉTAT STABLE, ACTE DIAGNOSTIQUE OU THÉRAPEUTIQUE
+----------------------------------------------------------
+Définition : Patient dont l'état est stable mais nécessitant un acte diagnostique ou thérapeutique non invasif.
+Exemples : Entorse, fièvre sans signe de gravité, douleur abdominale modérée, céphalée sans signe d'alarme.
+Protocole :
+- Bilan biologique ou radiologique simple
+- Antalgie de palier 1 ou 2
+- Surveillance 2 à 4 heures
+- Délai de prise en charge : 60 à 90 minutes
+
+CCMU 3 - ÉTAT SUSCEPTIBLE DE S'AGGRAVER
+-----------------------------------------
+Définition : Patient présentant une situation pouvant s'aggraver aux urgences ou nécessitant une prise en charge médicale rapide.
+Exemples : Douleur thoracique atypique, dyspnée modérée, trouble de conscience transitoire, AVC à la phase initiale.
+Protocole :
+- Mise en box médicalisé immédiate
+- Monitorage continu : ECG, SpO2, PA, FC
+- Bilan biologique urgent (NFS, ionogramme, troponine, CRP, coagulation)
+- Voie veineuse périphérique
+- Avis médical dans les 20 minutes
+- Délai de prise en charge : 30 minutes maximum
+
+CCMU 4 - PRONOSTIC VITAL ENGAGÉ À COURT TERME
+-----------------------------------------------
+Définition : Patient dont le pronostic vital est potentiellement menacé à court terme.
+Exemples : SCA probable, AVC ischémique avec déficit constitué, détresse respiratoire, sepsis sévère.
+Protocole :
+- Déchocage ou salle d'urgences vitales immédiatement
+- Monitorage complet
+- Bilan biologique et imagerie en urgence absolue
+- Avis médical immédiat (moins de 10 minutes)
+- Appel réanimateur si besoin
+- Décision d'hospitalisation ou transfert en moins d'une heure
+
+CCMU 5 - PRONOSTIC VITAL IMMÉDIATEMENT ENGAGÉ
+-----------------------------------------------
+Définition : Patient en situation d'urgence vitale immédiate nécessitant une réanimation.
+Exemples : Arrêt cardiorespiratoire, coma profond, choc non compensé, état de mal épileptique.
+Protocole :
+- Déchocage immédiat
+- Équipe complète mobilisée (médecin urgentiste + infirmier + aide-soignant)
+- Réanimation cardio-pulmonaire si ACR
+- Intubation oro-trachéale si nécessaire
+- Remplissage vasculaire, amines si choc
+- Transfert en réanimation après stabilisation
+
+CCMU D - DÉCÉDÉ À L'ARRIVÉE
+-----------------------------
+Définition : Patient décédé avant toute prise en charge médicale.
+Protocole :
+- Constat de décès par médecin urgentiste
+- Procédure médico-légale si nécessaire
+
+PROTOCOLES SPÉCIFIQUES PAR PATHOLOGIE
+
+Douleur Thoracique - Protocole "Chest Pain"
+-------------------------------------------
+1. ECG en moins de 10 minutes dès l'entrée
+2. Troponine T ou I haute sensibilité à T0 et T3h
+3. Si sus-décalage ST : activation de la filière STEMI immédiate (coronarographie urgente)
+4. Si bloc de branche gauche nouveau ou présumé nouveau : idem STEMI
+5. Si ECG non diagnostique : algorithme NSTEMI/UA (troponine 0h/3h ou 0h/1h)
+6. Score HEART ou GRACE selon tableau clinique
+7. Bilan : NFS, ionogramme, créatinine, glycémie, bilan lipidique, D-dimères si EP suspectée
+
+Protocole AVC - "Stroke Code"
+------------------------------
+1. Appel neurologie dès suspicion d'AVC
+2. Score NIHSS initial à l'entrée
+3. Scanner cérébral sans injection en urgence (objectif < 25 min après arrivée)
+4. Si ischémique et dans la fenêtre thérapeutique (< 4h30) : thrombolyse IV (rt-PA 0,9 mg/kg)
+5. Si occlusion proximale : thrombectomie mécanique (jusqu'à 24h selon critères)
+6. Bilan biologique : NFS, TP/TCA, glycémie, ionogramme
+7. Bilan cardiaque : ECG, ETT différée
+
+Protocole Céphalée Thunderclap
+--------------------------------
+1. Suspicion hémorragie sous-arachnoïdienne si céphalée "en coup de tonnerre"
+2. Scanner cérébral sans injection en urgence
+3. Si scanner négatif et forte suspicion : ponction lombaire (recherche xanthochromie)
+4. Angioscanner ou IRM ARM si HSA confirmée
+5. Appel neurochirurgie en urgence

@@ -1,0 +1,179 @@
+RED FLAGS PAR PATHOLOGIE - SIGNAUX D'ALARME AUX URGENCES
+==========================================================
+Ce fichier liste les signes de gravité (red flags) pour chaque pathologie principale.
+Tout red flag identifié doit déclencher une reclassification immédiate vers CCMU ≥ 3 / MTS P2.
+
+=== DOULEUR THORACIQUE ===
+
+Red Flags SCA (Syndrome Coronarien Aigu)
+-----------------------------------------
+✗ Sus-décalage du segment ST sur l'ECG (≥ 1mm en dérivations périphériques, ≥ 2mm en précordiales)
+✗ Bloc de branche gauche nouveau ou présumé nouveau
+✗ Douleur rétrosternale irradiant au bras gauche ou à la mâchoire
+✗ Sueurs froides profuses associées à la douleur
+✗ Troponine hs élevée (au-dessus du 99ème percentile)
+✗ Chute de la PA pendant la douleur (choc cardiogénique)
+✗ Bradycardie sinusale profonde ou bloc BAV (infarctus inférieur)
+✗ Angor instable : douleur au repos > 20 min ou crescendo
+
+Red Flags Dissection Aortique
+------------------------------
+✗ Douleur déchirante ou arrachante, irradiant dans le dos ou vers l'abdomen
+✗ Différence de PA > 20 mmHg entre les deux bras
+✗ Déficit d'un pouls périphérique (radial, fémoral)
+✗ Début brutal ("coup de poignard")
+✗ ATCD de Marfan, bicuspidie aortique, HTA sévère
+✗ Insuffisance aortique aiguë (souffle diastolique)
+✗ Déficit neurologique focal (dissection touchant les artères cérébrales)
+
+Red Flags Embolie Pulmonaire
+------------------------------
+✗ Dyspnée brutale + douleur pleurétique + tachycardie
+✗ SpO2 < 92% en air ambiant
+✗ Jambe rouge, chaude, douloureuse (TVP)
+✗ Hémoptysie
+✗ Hypotension (EP massive avec choc obstructif)
+✗ Déviation axiale droite sur ECG + tachycardie sinusale + S1Q3T3
+✗ D-dimères très élevés + score Wells > 4
+
+Red Flags Tamponnade
+---------------------
+✗ Triade de Beck : hypotension + turgescence jugulaire + bruits du cœur étouffés
+✗ Pouls paradoxal (chute > 10 mmHg à l'inspiration)
+✗ Tachycardie compensatrice
+✗ Contexte : cancer, péricardite récente, IRC, post-chirurgie cardiaque
+
+=== NEUROLOGIE - AVC ===
+
+Red Flags AVC Ischémique
+--------------------------
+✗ Déficit moteur hémicorporel d'apparition brutale
+✗ Trouble du langage brutal (aphasie, dysarthrie)
+✗ Déviation de la bouche + asymétrie faciale
+✗ Heure de début connue et < 4h30 → fenêtre thrombolyse
+✗ NIHSS ≥ 4 avec symptômes persistants
+✗ Hémianopsie latérale homonyme
+✗ Ataxie + vertige + diplopie (territoire postérieur = BASILAIRE = urgence absolue)
+✗ Syndrome de l'artère basilaire : coma + tétraparésie → pronostic très sombre sans recanalisation
+
+Red Flags AVC Hémorragique
+----------------------------
+✗ Céphalée brutale maximale ("thunderclap") + vomissements
+✗ Perte de connaissance initiale
+✗ Signes méningés (raideur de nuque, photophobie)
+✗ Hypertension artérielle très sévère (PA > 200/120 mmHg)
+✗ Anticoagulation en cours (surdosage)
+✗ Troubles de la vigilance progressifs
+
+Red Flags AIT (Accident Ischémique Transitoire) - Haut risque de récidive
+--------------------------------------------------------------------------
+✗ Score ABCD2 ≥ 4 → hospitalisation urgente
+  - Age > 60 ans : +1
+  - PA > 140/90 : +1
+  - Clinique : faiblesse unilatérale +2, trouble parole sans déficit +1
+  - Durée > 60 min +2, 10-59 min +1
+  - Diabète +1
+✗ AIT de répétition dans les 24h (crescendo TIA)
+✗ AIT sur sténose carotidienne connue
+✗ Fibrillation auriculaire (risque embolique élevé)
+
+=== CÉPHALÉE ===
+
+Red Flags Hémorragie Sous-Arachnoïdienne (HSA)
+------------------------------------------------
+✗ Céphalée en coup de tonnerre : intensité maximale en < 60 secondes
+✗ "La pire céphalée de ma vie" (même si régressive)
+✗ Perte de connaissance initiale brève
+✗ Raideur de nuque apparaissant dans les heures suivant le début
+✗ Déficit neurologique focal
+✗ Hémorragies sous-hyaloïdiennes au fond d'œil
+✗ ATCD familial d'anévrisme ou HSA
+
+Red Flags Méningite Bactérienne
+---------------------------------
+✗ Triade fébrile : fièvre + céphalée + raideur de nuque
+✗ Purpura non régression à la vitropression → URGENCE ABSOLUE → pénicilline G avant tout
+✗ Photophobie et phonophobie sévères
+✗ Signes de Kernig (résistance à l'extension du genou hanche fléchie) et Brudzinski
+✗ Trouble de conscience
+✗ Convulsions fébriles chez l'adulte
+✗ Retour de zone d'endémie (méningocoque A en ceinture africaine)
+
+Red Flags Hypertension Intracrânienne (HTIC)
+----------------------------------------------
+✗ Céphalée matinale aggravée au réveil ou par la toux/valsalva
+✗ Vomissements en jet sans nausées
+✗ Troubles visuels progressifs (diplopie, œdème papillaire)
+✗ Personnalité modifiée, somnolence progressive
+✗ Contexte : cancer connu, immunodépression, VIH
+✗ Bradycardie réflexe + hypertension (triade de Cushing tardive)
+
+Red Flags Glaucome Aigu
+------------------------
+✗ Céphalée orbitaire unilatérale intense + vision floue
+✗ Œil rouge avec pupille semi-dilatée aréactive
+✗ Halos colorés autour des lumières
+✗ Nausées et vomissements associés
+
+=== SEPSIS ===
+
+Red Flags Sepsis Sévère / Choc Septique
+-----------------------------------------
+✗ Fièvre > 38,5°C ou hypothermie < 36°C + foyer infectieux identifié
+✗ Hypotension persistante malgré remplissage (PA systolique < 90 mmHg)
+✗ Tachycardie > 120 bpm
+✗ Fréquence respiratoire > 22/min
+✗ Confusion ou altération de la conscience
+✗ Lactates > 2 mmol/L (hypoperfusion tissulaire)
+✗ Marbrures des genoux (livedo)
+✗ Oligurie (diurèse < 0,5 mL/kg/h)
+✗ Score qSOFA ≥ 2 : FR > 22/min + confusion + PA systolique ≤ 100 mmHg
+
+Portes d'entrée sepsis à ne pas manquer
+-----------------------------------------
+- Pneumonie : fièvre + toux + crépitants + infiltrat radio
+- Pyélonéphrite compliquée : fièvre + douleur lombaire + leucocyturie
+- Méningite : triade céphalée-fièvre-raideur nuque (voir ci-dessus)
+- Endocardite : fièvre prolongée + souffle + emboles
+- Cellulite/fasciite nécrosante : plaie + douleur disproportionnée + crépitations
+
+=== DYSPNÉE ===
+
+Red Flags Insuffisance Cardiaque Aiguë / OAP
+----------------------------------------------
+✗ Orthopnée (dyspnée allongée) + crépitants bilatéraux
+✗ SpO2 < 90% malgré oxygénothérapie
+✗ Tachycardie > 130 + galop B3
+✗ PA très élevée (OAP hypertensif) ou très basse (choc cardiogénique)
+✗ ATCD insuffisance cardiaque + prise de poids rapide + œdèmes des membres inférieurs
+✗ BNP ou NT-proBNP élevé
+
+Red Flags Pneumothorax Spontané
+---------------------------------
+✗ Dyspnée brutale unilatérale chez adulte jeune grand et mince
+✗ Douleur thoracique unilatérale
+✗ Abolition du murmure vésiculaire d'un côté
+✗ Tympanisme à la percussion
+✗ Pneumothorax compressif : déviation trachéale, choc, hypoxie → décompression urgente à l'aiguille
+
+=== TRAUMATOLOGIE CRÂNIENNE ===
+
+Red Flags Hématome Intracrânien Post-Traumatique
+--------------------------------------------------
+✗ Intervalle libre puis dégradation (hématome extradural → artère méningée moyenne)
+✗ Trouble de conscience progressif (Glasgow qui chute)
+✗ Anisocorie (pupille dilatée fixe = engagement temporal)
+✗ Déficit moteur controlatéral à la pupille dilatée
+✗ Prise d'anticoagulants même pour traumatisme mineur → scanner systématique
+✗ Fracture du crâne visible à la radio
+✗ Otorragie ou épistaxis post-traumatique
+
+RÈGLE GÉNÉRALE DE RECLASSIFICATION
+=====================================
+Tout red flag identifié lors du triage ou de la réévaluation impose :
+1. Reclassification immédiate vers CCMU 4 ou 5 / MTS P1 ou P2
+2. Appel médecin urgentiste sans délai
+3. Mise en box de surveillance médicalisée
+4. Monitorage continu : ECG, SpO2, PA, FC
+5. Voie veineuse périphérique de sécurité
+6. Documentation horodatée dans le dossier de soins
